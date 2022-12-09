@@ -16,3 +16,5 @@ git status
 git add
 git commit
 git push -u origin misha_task_2
+git merge "название ветки (слить ветку в нынешнюю)"
+git pull "скачать последнее обновление ветки / скачать ветку, которой нет"
