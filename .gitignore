@@ -1,4 +1,12 @@
 .idea/
+/tmp/
+/tmp/no-cache-data/
+/temp/*
+*.рус
+*.[oa]
+/t?mp/*
+*~
+
 test.py
 test1.py
 test2.py
